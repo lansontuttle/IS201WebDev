@@ -1,0 +1,12 @@
+#youtube .youtubelink {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+  }
+
+  body {
+    font-family: 'Courier New', Courier, monospace !important;
+    background-color: rgba(140, 160, 119, 0.697);
+
+}
